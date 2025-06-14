@@ -1,0 +1,28 @@
+body {
+    background-color: #121212;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+    background-image: url("/static/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white; /* optional: improves text readability */
+    font-family: Arial, sans-serif;
+}
+
+
+
+input, button {
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+    background: #1e1e1e;
+    color: white;
+    border: 1px solid #555;
+}
+
+button {
+    cursor: pointer;
+}
