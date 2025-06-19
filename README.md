@@ -22,5 +22,3 @@ This project demonstrates a full machine learning workflow:
 
 ---
 
-## 🗂️ Project Structure
-
